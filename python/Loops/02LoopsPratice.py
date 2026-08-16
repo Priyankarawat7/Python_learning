@@ -138,3 +138,6 @@ print( f"your Digits are {dig}\n your aplhabets are {spchr}\n and your character
 
 
 
+
+
+
