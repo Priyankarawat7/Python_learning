@@ -44,4 +44,7 @@ if copy==rev:
 else:
     print("Not pallindrome") 
 
+
+
+
               
