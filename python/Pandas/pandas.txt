@@ -1,0 +1,26 @@
+Pandas
+
+Data Cleaning
+Data Analysis
+Data Transformation
+Data Visualization
+Data Aggregation
+File handling
+Data Filtering & Selection
+Time Series Analysis
+
+
+Series
+DataFrames
+Missing Data
+Merging.joining Concatination
+GroupBy and Aggregation 
+pivot Tablees and Crosstab
+operations
+Working with real database
+Some great capstone project
+              
+
+Pandas Series
+A Series is a one-dimensional labeled array capable of holding any data type.The axis labels are collectively calles the index
+
