@@ -58,8 +58,12 @@ df2['Attendance']=[80,60,60,30]
 #Condtional Selection
 
 #if only want to see those people whose age is >20
-print(df2[(df2["Age"]>20) & (df2["City"]=='Delhi' )])
+#print(df2[(df2["Age"]>20) & (df2["City"]=='Delhi' )])
 
+
+print(df2[df2["Age"]>20])
+
+print(df)
 
                                         
 
